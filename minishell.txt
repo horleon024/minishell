@@ -1,0 +1,7 @@
+sudo apt-get install libreadline-dev
+--compile with -lreadline
+https://web.mit.edu/gnu/doc/html/rlman_2.html
+https://www.youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY
+https://pubs.opengroup.org/onlinepubs/9699919799/utilities/V3_chap02.html
+https://pubs.opengroup.org/onlinepubs/7908799/xcurses/tgetent.html
+https://www.cs.purdue.edu/homes/grr/SystemsProgrammingBook/Book/Chapter5-WritingYourOwnShell.pdf
